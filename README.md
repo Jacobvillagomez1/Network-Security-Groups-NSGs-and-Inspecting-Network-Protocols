@@ -32,7 +32,15 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - First create a Resource Group
 - Create a Virtual Machine in Windows
 - Create a Virtual Machine in Linux
-- 
+- Remote Desktop Connection into both VM
+- Download Wireshark in VM1
+- Open Command prompt and perform a endless ping -t from VM1 to VM2
+- Create a Network Security Group in Azure for denying the endless ping
+- Open Wireshark and monitor protocols (SSH,DNS,RDP, and ICMP)
+- Open Powershell and log into VM2 using SSH
+- Run Powershell Commands in VM2
+- Exit VM1
+- Delete Resource Groups in Azure for both VM's
 
 
 <h2>Actions and Observations</h2>
