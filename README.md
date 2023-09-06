@@ -1,6 +1,9 @@
 # Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="https://github.com/Jacobvillagomez1/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/143027686/f64f4a5b-bc43-4cd8-acfd-20bc707d00aa"/>
+</p>
+<p align="center">
+<img src="https://github.com/Jacobvillagomez1/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/143027686/f5f49e52-5670-4340-8351-ba4e5d54b343"/>
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
@@ -26,10 +29,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- First create a Resource Group
+- Create a Virtual Machine in Windows
+- Create a Virtual Machine in Linux
+- 
+
 
 <h2>Actions and Observations</h2>
 
