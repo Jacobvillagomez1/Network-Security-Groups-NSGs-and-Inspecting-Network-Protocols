@@ -12,7 +12,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: Lab 2 :  Configuring On premises Active Directory within Azure VMs](https://youtu.be/1EPNPQBD2os)
 
 <h2>Environments and Technologies Used</h2>
 
